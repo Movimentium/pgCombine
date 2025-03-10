@@ -1,0 +1,36 @@
+# Archivos y carpetas generados por Xcode
+*.xcuserdata/
+*.xcuserstate
+*.xcworkspace
+
+# Archivos temporales de macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+
+# Archivos temporales de Swift Playgrounds
+timeline.playground
+playground.xcworkspace
+
+# Archivos de compilación
+build/
+DerivedData/
+*.swiftmodule
+*.swiftdoc
+
+# Archivos específicos del sistema de control de versiones
+.idea/
+*.log
+*.lock
+
+# Archivos de respaldo
+*.bak
+*.tmp
+*.old
+
+# Otros archivos y configuraciones opcionales
+*.plist
+*.xcsettings
+
