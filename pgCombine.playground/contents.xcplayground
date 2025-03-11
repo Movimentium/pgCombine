@@ -3,5 +3,6 @@
     <pages>
         <page name='C2_02 Publishers Just'/>
         <page name='C2_03 Operators'/>
+        <page name='C2_04 Subscribers'/>
     </pages>
 </playground>
